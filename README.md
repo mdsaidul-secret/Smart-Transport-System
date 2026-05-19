@@ -1,5 +1,7 @@
 # Smart-Transport-System
 
+Copy all files to C:\xampp\htdocs\transport.php 
+
 Smart Transport System – DBMS Project
 1. Install XAMPP (Apache + MySQL)
 2. Copy all files to `C:\xampp\htdocs\smart_transport`
